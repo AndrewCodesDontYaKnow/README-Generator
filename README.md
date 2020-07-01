@@ -1,9 +1,9 @@
-##Project Name: tonytime
+##Project Name: SampleProject
 
-Project Purpose: make tony fat
+Project Purpose: To make everything easier.
 
-User Instructions: feed tony
+User Instructions: Sample instructions.
 
-Development Notes: he likes pizza
+Development Notes: Development notes here.
 
-Future Development: we want to find more fatty foods for tony
+Future Development: Future dev plans here.
